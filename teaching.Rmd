@@ -1,0 +1,36 @@
+---
+title: "Teaching"
+output: distill::distill_article
+---
+
+### Courses taught
+
+__Public Policy__, Department of Political Science, University of Copenhagen, Spring 2020, 2021, 2022
+
+* Cohort lecturing appr. 200 undergraduate students three weeks in a row on topics like political rent-seeking, regulatory capture and blame-avoidance. 
+
+<p>
+
+__Methods 3__, Department of Political Science, University of Copenhagen, Spring 2020 and 2021
+
+* Taught classes of appr. 35 undergraduate students on topics like experimental designs, quasi-experimental designs and panel data estimation.
+
+<p>
+
+__Methods 1__, Department of Political Science, University of Copenhagen, Spring 2018
+
+* Taught a weekly class of appr. 35 undergraduate students, carried out sections and workshops in applied methods and statistics.
+
+<p>
+
+__Bachelor Thesis Methods Sessions__, Department of Political Science, University of Copenhagen, Spring 2018
+
+* Helped students with methodological and statistical concerns in their bachelor theses throughout the semester.
+
+<p>
+
+### Short courses/workshops
+
+__Quasi-experimental analyses in R__, Department of Psychology, University of Cambridge, May 2021
+
+* 2 hour tutorial session for PhD students about regression discontinuity designs and difference-in-differences designs and how to implement them in R.

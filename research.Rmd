@@ -1,0 +1,53 @@
+---
+title: "Research"
+output: distill::distill_article
+---
+
+
+Here you can see my research -- published articles (yeah alright, there is only one for now) as well as stuff I am currently working on.
+
+If you want a copy of one of my working papers please reach out to me at **fkl *[at]* ifs.ku.dk**.
+
+
+
+### Published work
+
+Greve-Poulsen, K., **Larsen, F. K.**, Pedersen, R. T., & Albæk, E. (2021). **No Gender Bias in Audience Perceptions of Male and Female Experts in the News: Equally Competent and Persuasive**. *The International Journal of Press/Politics*, OnlineFirst.
+
+* [Open Access version](https://portal.findresearcher.sdu.dk/en/publications/no-gender-bias-in-audience-perceptions-of-male-and-female-experts)
+* [Code and replication data](https://t.co/VNDcuQ8Lnz)
+
+<p>
+
+### Work in progress 
+
+__Reward or Punishment? The Distribution of Life-Cycle Returns to Political Office__ with Jens Olav Dahlgaard and Nicolai Kristensen. *Under review*. Working paper version [here](https://www.iza.org/publications/dp/15274/reward-or-punishment-the-distribution-of-life-cycle-returns-to-political-office)
+
+
+* We estimate the economic returns to winning office focusing on close winning and losing candidates running for Danish national elections. We devote special attention to 1) effect heterogeneity among candidates with different pre-office income potentials and 2) the timing of returns to office, as some economic consequences of holding office occur immediately when entering office while others occur later in life.
+
+<p>
+
+__Political Ambitions and Workplace Harassment -- How Gender and Victimization Shape Political Candidates' Preferences for Power, Time, Money and Work Environments__ with Lene Holm Pedersen. *Under review*.
+
+* We investigate political candidates' preferences for different job attributes of holding office using a conjoint-choice experiment fielded among the political candidates in the Danish municipal election in November 2021.
+
+<p>
+
+__Government Ideology and Gender Equality in Public Sector Career Progression__ with Lasse Aaskoven and Benjamin Egerod. *Under Review*.
+
+* Relying on granular data of the universe of Danish civil servants, we estimate how women’s career progression in the Danish bureaucracy depend on the ideology of the government in office.
+
+
+<p>
+
+__Increased Representation of Women Improves The Electoral Performance of Political Parties__ with Jens Olav Dahlgaard, Benjamin Egerod and Lene Holm Pedersen. *Under Review*
+
+* We investigate if the election of a woman for office foster female representation in future elections and beyond the candidate herself. We do this by focusing on local elections, where a woman marginally wins a seat over a man competing for the same seat, and estimate what this means to the composition of the future candidate pools and thus how it shapes the supply of political candidates.
+
+<p> 
+
+__The Career Rewards of Being Part-time Politician__
+
+* I estimate how holding a part-time political office affect income and civil career of Danish local councilors. Concerning the latter, I specifically investigate what being a local councilor do to the councilors labour supply and probability of being promoted in their outside job.
+
