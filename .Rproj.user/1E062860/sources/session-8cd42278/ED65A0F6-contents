@@ -87,26 +87,26 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
   <!--radix_placeholder_meta_tags-->
-  <title>Frederik Kjøller: Teaching</title>
+  <title>Frederik Kjøller: Dissemination</title>
 
 
 
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content="Frederik Kjøller: Teaching"/>
+  <meta property="og:title" content="Frederik Kjøller: Dissemination"/>
   <meta property="og:type" content="article"/>
   <meta property="og:locale" content="en_US"/>
   <meta property="og:site_name" content="Frederik Kjøller"/>
 
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content="Frederik Kjøller: Teaching"/>
+  <meta property="twitter:title" content="Frederik Kjøller: Dissemination"/>
 
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","output"]}},"value":[{"type":"character","attributes":{},"value":["Teaching"]},{"type":"character","attributes":{},"value":["distill::distill_article"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","output"]}},"value":[{"type":"character","attributes":{},"value":["Dissemination"]},{"type":"character","attributes":{},"value":["distill::distill_article"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2379,7 +2379,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Teaching","authors":[]}
+{"title":"Dissemination","authors":[]}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2407,7 +2407,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--/radix_placeholder_site_before_body-->
 
 <div class="d-title">
-<h1>Teaching</h1>
+<h1>Dissemination</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
 
@@ -2415,44 +2415,92 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
 <div class="d-article">
-<h3 id="courses-taught">Courses taught</h3>
-<p><strong>Public Policy</strong>, Department of Political Science,
-University of Copenhagen, Spring 2020–2024</p>
+<h3 id="expert-advisory">Expert Advisory</h3>
+<p><strong>Member of expert network, Transparency International
+Denmark</strong></p>
 <ul>
-<li>Cohort lecturing appr. 200 undergraduate students three weeks in a
-row on topics like political rent-seeking, regulatory capture and
-blame-avoidance.</li>
+<li>In May 2021, I was invited to join Transparency International
+Denmark’s network of Danish researchers who have expertise related to
+corruption and abuse of power. Description in Danish <a
+href="https://transparency.dk/kontakt/ekspertgruppe/">here</a>.</li>
 </ul>
 <p>
-<p><strong>Methods 2 &amp; 3</strong>, Department of Political Science,
-University of Copenhagen, Spring 2020, 2021 and Fall 2023.</p>
+<h3 id="usage-as-expert-source">Usage as expert source</h3>
+<p><strong>Radio4, March 14, 2023</strong></p>
 <ul>
-<li>Taught classes of appr. 35 undergraduate students on topics like
-experimental designs, quasi-experimental designs and panel data
-estimation.</li>
+<li>Interviewed about Danish MPs’ salaries and pensions, and why they
+are important for our democracy, but difficult to change. Listen <a
+href="https://www.radio4.dk/program/ring-til-due/?gid=49189&amp;title=ring-til-radio4-skal-kvinder-have-lov-til-at-bade-topls-i-de-danske-svmmehaller&amp;time=3453">here</a>
+(in Danish).</li>
+</ul>
+<p><strong>Avisen Danmark, Aarhus Stifttidende and Fyns Amts Avis,
+October 28, 2022</strong></p>
+<ul>
+<li>Expert source about politicians salaries and the economic returns of
+having a political career. Danish URL <a
+href="https://avisendanmark.dk/artikel/nogle-tjener-p%C3%A5-at-g%C3%A5-ind-i-politik-men-langt-fra-alle-jeg-gik-20-000-ned-i-l%C3%B8n-om-m%C3%A5neden">here</a></li>
+</ul>
+<p><strong>DR P1 Orientering, June 14, 2022</strong></p>
+<ul>
+<li>I was interviewed in the news program Orientering on the nationwide
+Danish radio station P1 about politicians’ careers, party switching and
+political representation. Starts from 56:25 <a
+href="https://www.dr.dk/lyd/p1/orientering/orientering-2022-06-14">here</a>
+(in Danish).</li>
+</ul>
+<p><strong>Avisen Danmark, Aarhus Stifttidende and Fyns Amts Avis, May
+3, 2022</strong></p>
+<ul>
+<li>Expert source about revolving door employmets and the public’s truft
+in politicians as a Danish minister left politics for a job as lobbyist.
+Danish URL <a
+href="https://avisendanmark.dk/artikel/h%C3%A6kkerups-jobskifte-genopliver-krav-om-karant%C3%A6ne-til-politikere-han-mister-trov%C3%A6rdighed-hvis-han-nu-kommer-og-siger-at-regeringens-sundhedsudspil-er-dumt">here</a></li>
 </ul>
 <p>
-<p><strong>Methods 1</strong>, Department of Political Science,
-University of Copenhagen, Spring 2018</p>
+<h3 id="dissemination-of-research-in-media">Dissemination of research in
+media</h3>
+<p><strong>Politiken, June 29, 2021: ”Pia overbeviser ligeså godt som
+Per, når hun udtaler sig som ekspert”</strong> with Katrine
+Greve-Poulsen, Rasmus Tue Pedersen and Erik Albæk.</p>
 <ul>
-<li>Taught a weekly class of appr. 35 undergraduate students, carried
-out sections and workshops in applied methods and statistics.</li>
+<li>Article disseminating the results of our research article ”No Gender
+Bias in Audience Perceptions of Male and Female Experts in the News:
+Equally Competent and Persuasive” in the Danish newspaper
+Politiken.</li>
+<li>Danish URL <a
+href="https://politiken.dk/debat/debatindlaeg/art8259934/Pia-overbeviser-liges%C3%A5-godt-som-Per-n%C3%A5r-hun-udtaler-sig-som-ekspert">here</a></li>
+</ul>
+<p><strong>Uniavisen/The University Post, June 25, 2021: ”New study:
+Readers perceive male and female experts as equally
+competent”.</strong></p>
+<ul>
+<li>My co-author Katrine Greve-Poulsen and I were interviewed about our
+first academic publication by University of Copenhagen’s independent
+news paper Uniavisen (The University Post).</li>
+<li>English version <a
+href="https://uniavisen.dk/en/new-study-readers-perceive-male-and-female-experts-as-equally-competent/">here</a>,
+Danish version <a
+href="https://uniavisen.dk/ny-undersoegelse-laesere-finder-mandlige-og-kvindelige-eksperter-lige-kompetente/">here</a>.</li>
 </ul>
 <p>
-<p><strong>Bachelor Thesis Methods Sessions</strong>, Department of
-Political Science, University of Copenhagen, Spring 2018</p>
+<h3 id="research-presentations-to-non-academics">Research Presentations
+to Non-Academics</h3>
+<p><strong>Research presentation, Transparency International
+Denmark</strong>, May 2021</p>
 <ul>
-<li>Helped students with methodological and statistical concerns in
-their bachelor theses throughout the semester.</li>
+<li>Presentation about my research field for the board of Transparency
+International Denmark. Further, I provided my inputs and discussed how
+to mitigate corruption and malfeasance in the Danish municipalities in
+relation to the (at that point) upcoming Danish municipal election in
+November 2021.</li>
 </ul>
-<p>
-<h3 id="short-coursesworkshops">Short courses/workshops</h3>
-<p><strong>Quasi-experimental analyses in R</strong>, Department of
-Psychology, University of Cambridge, May 2021</p>
+<p><strong>Research presentation at Projekt Forskerspirer</strong>,
+April 2021</p>
 <ul>
-<li>2 hour tutorial session for PhD students about regression
-discontinuity designs and difference-in-differences designs and how to
-implement them in R.</li>
+<li>Presentation about my research and reseach designs broadly for the
+social science section in Projekt Forskerspirer (Junior Researchers
+Project) – a program where academically talented high school students
+conduct their own research.</li>
 </ul>
 <div class="sourceCode" id="cb1"><pre
 class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
