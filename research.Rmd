@@ -17,7 +17,7 @@ Greve-Poulsen, K., **Larsen, F. K.**, Pedersen, R. T., & Albæk, E. (2021). **No
 
 ### Work in progress 
 
-__Reward or Punishment? The Distribution of Life-Cycle Returns to Political Office__ with Jens Olav Dahlgaard and Nicolai Kristensen. Conditionally accepted in *Political Science Research & Methods*. Working paper version [here](https://www.iza.org/publications/dp/15274/reward-or-punishment-the-distribution-of-life-cycle-returns-to-political-office)
+__Reward or Punishment? The Distribution of Life-Cycle Returns to Political Office__ with Jens Olav Dahlgaard and Nicolai Kristensen. Conditionally accepted in *Political Science Research & Methods*.
 
 
 <!--* We estimate the economic returns to winning office focusing on close winning and losing candidates running for Danish national elections. We devote special attention to 1) effect heterogeneity among candidates with different pre-office income potentials and 2) the timing of returns to office, as some economic consequences of holding office occur immediately when entering office while others occur later in life.-->
@@ -30,7 +30,7 @@ __The Gendered Cost of Politics__ with Lene Holm Pedersen. Accepted in *British 
 
 <p>
 
-__What Happens When Women Win Elections? The Electoral Returns to Increased Representation of Women__ with Benjamin Egerod, Lene Holm Pedersen and Jens Olav Dahlgaard. Resubmitted to *Journal of Politics*
+__What Happens When Women Win Elections? The Electoral Returns to Increased Representation of Women__ with Benjamin Egerod, Lene Holm Pedersen and Jens Olav Dahlgaard. Conditionally accepted in *Journal of Politics*
 
 <!--* We investigate if the election of a woman for office foster female representation in future elections and beyond the candidate herself. We do this by focusing on local elections, where a woman marginally wins a seat over a man competing for the same seat, and estimate what this means to the composition of the future candidate pools and thus how it shapes the supply of political candidates.-->
 
