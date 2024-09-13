@@ -10,12 +10,13 @@ If you want a copy of one of my working papers please reach out to me at **fkl *
 
 
 
-### Published work
+### Published and accepted work
 
-Greve-Poulsen, K., **Larsen, F. K.**, Pedersen, R. T., & Albæk, E. (2021). **No Gender Bias in Audience Perceptions of Male and Female Experts in the News: Equally Competent and Persuasive**. *The International Journal of Press/Politics*, 28 (1), 116-137. [URL](https://journals.sagepub.com/doi/abs/10.1177/19401612211025499), [Open Access version](https://portal.findresearcher.sdu.dk/en/publications/no-gender-bias-in-audience-perceptions-of-male-and-female-experts), [Code and replication data](https://t.co/VNDcuQ8Lnz).
+__The Gendered Cost of Politics__ with Lene Holm Pedersen. Accepted in *British Journal of Political Science*.
 
+<!--* We investigate political candidates' preferences for different job attributes of holding office using a conjoint-choice experiment fielded among the political candidates in the Danish municipal election in November 2021.-->
 
-### Work in progress 
+<p>
 
 __Reward or Punishment? The Distribution of Life-Cycle Returns to Political Office__ with Jens Olav Dahlgaard and Nicolai Kristensen. Conditionally accepted in *Political Science Research & Methods*.
 
@@ -24,20 +25,20 @@ __Reward or Punishment? The Distribution of Life-Cycle Returns to Political Offi
 
 <p>
 
-__The Gendered Cost of Politics__ with Lene Holm Pedersen. Accepted in *British Journal of Political Science*.
 
-<!--* We investigate political candidates' preferences for different job attributes of holding office using a conjoint-choice experiment fielded among the political candidates in the Danish municipal election in November 2021.-->
-
-<p>
-
-__What Happens When Women Win Elections? The Electoral Returns to Increased Representation of Women__ with Benjamin Egerod, Lene Holm Pedersen and Jens Olav Dahlgaard. Conditionally accepted in *Journal of Politics*
+__What Happens When Women Win Elections? The Electoral Returns to Increased Representation of Women__ with Benjamin Egerod, Lene Holm Pedersen and Jens Olav Dahlgaard. Conditionally accepted in *Journal of Politics*.
 
 <!--* We investigate if the election of a woman for office foster female representation in future elections and beyond the candidate herself. We do this by focusing on local elections, where a woman marginally wins a seat over a man competing for the same seat, and estimate what this means to the composition of the future candidate pools and thus how it shapes the supply of political candidates.-->
 
-
 <p>
 
-__Government Ideology and Gender Equality in Public Sector Career Progression__ with Lasse Aaskoven and Benjamin Egerod.
+Greve-Poulsen, K., **Larsen, F. K.**, Pedersen, R. T., & Albæk, E. (2021). **No Gender Bias in Audience Perceptions of Male and Female Experts in the News: Equally Competent and Persuasive**. *The International Journal of Press/Politics*, 28 (1), 116-137. [URL](https://journals.sagepub.com/doi/abs/10.1177/19401612211025499), [Open Access version](https://portal.findresearcher.sdu.dk/en/publications/no-gender-bias-in-audience-perceptions-of-male-and-female-experts), [Code and replication data](https://t.co/VNDcuQ8Lnz).
+
+
+### Work in progress 
+
+
+__Government Ideology and Gender Equality in Public Sector Career Progression__ with Lasse Aaskoven and Benjamin Egerod. Submitted.
 
 <!--* Relying on granular data of the universe of Danish civil servants, we estimate how women’s career progression in the Danish bureaucracy depend on the ideology of the government in office.-->
 
@@ -50,7 +51,15 @@ __The Career Rewards of Being Part-time Politician__
 
 <p>
 
-__The Gender of a Big Spender? The Causal Effect of Women on Agenda-Setting, Public Budgeting and Expenditures__ with Karl-Emil Svenningsen Bendtsen & Lene Holm Pedersen.
+__The Gender of a Big Spender? The Causal Effect of Women on Agenda-Setting, Public Budgeting and Expenditures__ with Karl-Emil Svenningsen Bendtsen & Lene Holm Pedersen. Under review.
+
+<p>
+
+__The Effects of Electing Working Class Candidates__ with Olivia Levinsen, Anna Lund & Frederik Hjorth.
+
+<p>
+
+__Male Managers and the Promotion of Women in Public Service__ with Lasse Aaskoven & Benjamin Egerod
 
 ### Work in Danish
 
