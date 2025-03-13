@@ -27,9 +27,11 @@ My research interests relate to the composition and dynamics of the political cl
 
 Please reach out to me at **fkl *[at]* ifs.ku.dk** if you want to get in touch.
 
-</p>
+<br>
 
 ##### **Published and accepted work**
+
+<p>
 
 [Reward or Punishment? The Distribution of Life-Cycle Returns to Political Office](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/reward-or-punishment-the-distribution-of-lifecycle-returns-to-political-office/9D15D43DAF4D7BCA1AE469E4E1BC0DE7) with Jens Olav Dahlgaard and Nicolai Kristensen. Forthcoming, *Political Science Research & Methods*.
 
@@ -43,10 +45,11 @@ Please reach out to me at **fkl *[at]* ifs.ku.dk** if you want to get in touch.
 
 [No Gender Bias in Audience Perceptions of Male and Female Experts in the News: Equally Competent and Persuasive](https://journals.sagepub.com/doi/abs/10.1177/19401612211025499) with Katrine Greve-Poulsen, Rasmus T. Pedersen & Erik Albæk. 2021. *The International Journal of Press/Politics*, 28 (1), 116-137. [Open Access version](https://portal.findresearcher.sdu.dk/en/publications/no-gender-bias-in-audience-perceptions-of-male-and-female-experts), [Code and replication data](https://t.co/VNDcuQ8Lnz).
 
-<p>
+<br>
 
 ##### **Work in progress** 
 
+<p>
 
 __Government Ideology and Gender Equality in Public Sector Career Progression__ with Lasse Aaskoven and Benjamin Egerod. Revise & Resubmit in *Political Science Research & Methods*.
 
@@ -79,7 +82,11 @@ __Cherries on Top? The Effect of Ballot Ordering__ with Olivia Levinsen, Anna Lu
 
 __Proximity to Parliament: The Representational Effects of Politicians' Costs of Commuting__ with Frederik Hjorth.
 
+<br>
+
 ##### **Work in Danish**
+
+<p>
 
 __Stabil Politisk Tillid Trods Minksag og Coronapandemi__ with Rune Stubager. English: Stable Political Trust Despite Mink Case and Corona Pandemic.
 Book chapter in _Partiledernes Kamp Om Midten_ (ed. Kasper M. Hansen & Rune Stubager), a book examining the Danish Election 2022.
