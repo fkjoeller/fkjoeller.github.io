@@ -4,8 +4,6 @@ image: "images/image_of_me.jpg"
 links:
   - label: Email
     url: "mailto:fkl@ifs.ku.dk"
-  - label: Twitter
-    url: "https://twitter.com/fkjoellerlarsen"
   - label: GitHub
     url: "https://github.com/fkjoellerlarsen"
   - label: Google Scholar
@@ -28,5 +26,7 @@ I received my PhD degree in December 2023 from [Department of Political Science,
 My research interests relate to the composition and dynamics of the political class, and how political systems intentionally and unintentionally shape who we get as officeholders and how they behave. I use quantitative and computational methods, and I draw inferences by deploying various forms of quasi-experiments and traditional experiments. 
 
 My work has been published or is forthcoming in *Journal of Politics*, *British Journal of Political Science*, *Political Science Research & Methods*, and *International Journal of Press/Politics*. 
+
+You can find my CV [here](https://www.dropbox.com/scl/fi/n8i2dm6o9d36fgos6rlv9/cv_frederik_kjoeller.pdf?rlkey=8vsa9imyxu31eigplwq3egomt&dl=0).
 
 Please reach out to me at **fkl *[at]* ifs.ku.dk** if you want to get in touch.

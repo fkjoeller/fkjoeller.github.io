@@ -18,7 +18,7 @@ __The Gendered Cost of Politics__ with Lene Holm Pedersen. Accepted in *British 
 
 <p>
 
-__Reward or Punishment? The Distribution of Life-Cycle Returns to Political Office__ with Jens Olav Dahlgaard and Nicolai Kristensen. Conditionally accepted in *Political Science Research & Methods*.
+__Reward or Punishment? The Distribution of Life-Cycle Returns to Political Office__ with Jens Olav Dahlgaard and Nicolai Kristensen. *Political Science Research & Methods*, published online 2025: 1-9. [URL](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/reward-or-punishment-the-distribution-of-lifecycle-returns-to-political-office/9D15D43DAF4D7BCA1AE469E4E1BC0DE7)
 
 
 <!--* We estimate the economic returns to winning office focusing on close winning and losing candidates running for Danish national elections. We devote special attention to 1) effect heterogeneity among candidates with different pre-office income potentials and 2) the timing of returns to office, as some economic consequences of holding office occur immediately when entering office while others occur later in life.-->
@@ -26,19 +26,19 @@ __Reward or Punishment? The Distribution of Life-Cycle Returns to Political Offi
 <p>
 
 
-__What Happens When Women Win Elections? The Electoral Returns to Increased Representation of Women__ with Benjamin Egerod, Lene Holm Pedersen and Jens Olav Dahlgaard. Conditionally accepted in *Journal of Politics*.
+__What Happens When Women Win Elections? The Electoral Returns to Increased Representation of Women__ with Benjamin Egerod, Lene Holm Pedersen and Jens Olav Dahlgaard. *Journal of Politics*, published online 2024: 1-11. [URL](https://www.journals.uchicago.edu/doi/abs/10.1086/734266?journalCode=jop)
 
 <!--* We investigate if the election of a woman for office foster female representation in future elections and beyond the candidate herself. We do this by focusing on local elections, where a woman marginally wins a seat over a man competing for the same seat, and estimate what this means to the composition of the future candidate pools and thus how it shapes the supply of political candidates.-->
 
 <p>
 
-Greve-Poulsen, K., **Larsen, F. K.**, Pedersen, R. T., & Albæk, E. (2021). **No Gender Bias in Audience Perceptions of Male and Female Experts in the News: Equally Competent and Persuasive**. *The International Journal of Press/Politics*, 28 (1), 116-137. [URL](https://journals.sagepub.com/doi/abs/10.1177/19401612211025499), [Open Access version](https://portal.findresearcher.sdu.dk/en/publications/no-gender-bias-in-audience-perceptions-of-male-and-female-experts), [Code and replication data](https://t.co/VNDcuQ8Lnz).
+**No Gender Bias in Audience Perceptions of Male and Female Experts in the News: Equally Competent and Persuasive**. *The International Journal of Press/Politics* with Katrine Greve-Poulsen, Rasmus T. Pedersen & Erik Albæk, 2021, 28 (1), 116-137. [URL](https://journals.sagepub.com/doi/abs/10.1177/19401612211025499), [Open Access version](https://portal.findresearcher.sdu.dk/en/publications/no-gender-bias-in-audience-perceptions-of-male-and-female-experts), [Code and replication data](https://t.co/VNDcuQ8Lnz).
 
 
 ### Work in progress 
 
 
-__Government Ideology and Gender Equality in Public Sector Career Progression__ with Lasse Aaskoven and Benjamin Egerod. Submitted.
+__Government Ideology and Gender Equality in Public Sector Career Progression__ with Lasse Aaskoven and Benjamin Egerod. Revise and resubmit in *Political Science Research & Methods*
 
 <!--* Relying on granular data of the universe of Danish civil servants, we estimate how women’s career progression in the Danish bureaucracy depend on the ideology of the government in office.-->
 
@@ -59,7 +59,15 @@ __The Effects of Electing Working Class Candidates__ with Olivia Levinsen, Anna 
 
 <p>
 
-__Male Managers and the Promotion of Women in Public Service__ with Lasse Aaskoven & Benjamin Egerod
+__Male Managers and the Promotion of Women in Public Service__ with Lasse Aaskoven & Benjamin Egerod.
+
+<p>
+
+__Cherries on Top? The Effect of Ballot Ordering__ with Olivia Levinsen, Anna Lund Sørensen & Frederik Hjorth.
+
+<p>
+
+__Proximity to Parliament: The Representational Effects of Politicians' Costs of Commuting__ with Frederik Hjorth.
 
 ### Work in Danish
 
