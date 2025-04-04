@@ -33,15 +33,13 @@ Please reach out to me at **fkl *[at]* ifs.ku.dk** if you want to get in touch.
 
 <p>
 
+[The Gendered Cost of Politics](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/gendered-cost-of-politics/2EADF7209471F07DDFEFB7F4D19A594D) with Lene Holm Pedersen. 2025. *British Journal of Political Science*, 55:e59.
+
 [Reward or Punishment? The Distribution of Life-Cycle Returns to Political Office](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/reward-or-punishment-the-distribution-of-lifecycle-returns-to-political-office/9D15D43DAF4D7BCA1AE469E4E1BC0DE7) with Jens Olav Dahlgaard and Nicolai Kristensen. Forthcoming, *Political Science Research & Methods*.
 
 [What Happens When Women Win Elections? The Electoral Returns to Increased Representation of Women](https://www.journals.uchicago.edu/doi/abs/10.1086/734266?journalCode=jop) with Benjamin Egerod, Lene Holm Pedersen and Jens Olav Dahlgaard. Forthcoming, *Journal of Politics*.
 
 <!--* We investigate if the election of a woman for office foster female representation in future elections and beyond the candidate herself. We do this by focusing on local elections, where a woman marginally wins a seat over a man competing for the same seat, and estimate what this means to the composition of the future candidate pools and thus how it shapes the supply of political candidates.-->
-
-<p>
-
-**The Gendered Cost of Politics** with Lene Holm Pedersen. Accepted in *British Journal of Political Science*.
 
 [No Gender Bias in Audience Perceptions of Male and Female Experts in the News: Equally Competent and Persuasive](https://journals.sagepub.com/doi/abs/10.1177/19401612211025499) with Katrine Greve-Poulsen, Rasmus T. Pedersen & Erik Albæk. 2021. *The International Journal of Press/Politics*, 28 (1), 116-137. [Open Access version](https://portal.findresearcher.sdu.dk/en/publications/no-gender-bias-in-audience-perceptions-of-male-and-female-experts), [Code and replication data](https://t.co/VNDcuQ8Lnz).
 
@@ -58,7 +56,7 @@ __Government Ideology and Gender Equality in Public Sector Career Progression__ 
 
 <p> 
 
-__The Career Rewards of Being Part-time Politician__
+__Career Rewards for Part-time Politicians__
 
 <!--* I estimate how holding a part-time political office affect income and civil career of Danish local councilors. Concerning the latter, I specifically investigate what being a local councilor do to the councilors labour supply and probability of being promoted in their outside job.-->
 
