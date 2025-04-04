@@ -1,5 +1,5 @@
 ---
-title: "Frederik Kjøller"
+title: "Frederik K. Kjøller"
 image: "images/image_of_me.jpg"
 links:
   - label: Email
