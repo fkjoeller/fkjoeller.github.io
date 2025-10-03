@@ -19,7 +19,7 @@ site: distill::distill_website
 
 Welcome to my website and thanks for stopping by!
 
-I am postdoctoral researcher at [Department of Political Science, University of Copenhagen](https://politicalscience.ku.dk/) on the research project Origins of Descriptive Representation [ODER](https://www.carlsbergfondet.dk/en/Forskningsaktiviteter/Bevillingsstatistik/Bevillingsoversigt/CF22_0819_Frederik-Hjorth). The project is funded by the Carlsberg Foundation and led by [Frederik Hjorth](https://fghjorth.github.io/). In the project, we use machine learning to digitize all Danish elections at the candidate level since the constitution in 1849 and investigate the representation of women and workers throughout Denmark's democratic history.
+I am postdoctoral researcher at [Department of Political Science, University of Copenhagen](https://politicalscience.ku.dk/) on the research project Origins of Descriptive Representation [ODER](https://www.carlsbergfondet.dk/en/Forskningsaktiviteter/Bevillingsstatistik/Bevillingsoversigt/CF22_0819_Frederik-Hjorth). The project is funded by the Carlsberg Foundation and led by [Frederik Hjorth](https://fghjorth.github.io/). In the project, we use computer vision to digitize all candidacies and candidate-level election results throughout Denmark's democratic history. We use this comprehensive data to study how political candidates' socioeconomic backgrounds have evolved over time and the implications for political representation and public policy.
 
 I received my PhD degree in December 2023 from [Department of Political Science, University of Copenhagen](https://politicalscience.ku.dk/). My dissertation examined political careers and political representation and can be read and downloaded  [here](https://www.dropbox.com/scl/fi/enie81c4cpdcdr0q4jruv/Kjoeller2023morethanajob.pdf?rlkey=x45lifhnqa7a23a6a9b9jf1dv&dl=0). My PhD supervisors was [Lene Holm Pedersen](https://politicalscience.ku.dk/staff/Academic_staff/?pure=en/persons/16215) (primary) and [Jens Olav Dahlgaard](https://jodahlgaard.com/) (secondary). During my PhD, I have been visiting researcher at [Copenhagen Business School](https://www.cbs.dk/en/research/departments-and-centres/department-of-international-economics-government-and-business) and [Harvard University](https://gov.harvard.edu).
 
@@ -75,7 +75,7 @@ __Cherries on Top? The Effect of Ballot Ordering__ with Olivia Levinsen, Anna Lu
 
 <p>
 
-__The Representational Consequences of Politicians' Costs of Commuting__ with Frederik Hjorth.
+__When Access Backfires: The Representational Consequences of Reducing Politicians' Costs of Commuting__ with Frederik Hjorth.
 
 <p>
 
