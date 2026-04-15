@@ -33,6 +33,16 @@ html {
   --navbar-font:     sans-serif;  /* websites + blogs only */
 }
 
+h1:first-of-type::before {
+  content: "Photo: Freja Wille";
+  display: block;
+  font-size: 0.22em;
+  font-weight: 400;
+  opacity: 0.75;
+  margin-top: -2.5em;
+  margin-bottom: 0.4em;
+}
+
 /*-- ARTICLE METADATA --*/
 d-byline {
   --heading-size:    0.6rem;

@@ -1,6 +1,5 @@
 ---
-title: "<span style='font-size:0.2em; font-weight:400; opacity:0.8; display:block; margin-top:-20px; margin-bottom:5px;'>Photo: Freja Wille</span>Frederik K. Kjøller"
-pagetitle: "Frederik K. Kjøller"
+title: "Frederik K. Kjøller"
 image: "images/FrejaWille_FKjøller_01_cropped.jpeg"
 links:
   - label: Email
@@ -14,7 +13,8 @@ links:
   - label: BlueSky
     url: "https://bsky.app/profile/fkjoeller.bsky.social"
 output:
-  postcards::trestles
+  postcards::trestles:
+    css: theme.css
 site: distill::distill_website
 ---
 
