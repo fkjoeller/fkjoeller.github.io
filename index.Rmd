@@ -3,7 +3,7 @@ title: "Frederik K. Kjøller"
 image: "images/FrejaWille_FKjøller_01_cropped.jpeg"
 links:
   - label: Email
-    url: "mailto:fkl@ifs.ku.dk"
+    url: "mailto:fkjoeller@ifs.ku.dk"
   - label: GitHub
     url: "https://github.com/fkjoellerlarsen"
   - label: Google Scholar
@@ -29,7 +29,7 @@ My research interests relate to the composition and dynamics of the political cl
 
 
 
-Please reach out to me at **fkl *[at]* ifs.ku.dk** if you want to get in touch.
+Please reach out to me at **fkjoeller *[at]* ifs.ku.dk** if you want to get in touch.
 
 <br>
 
