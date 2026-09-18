@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>$pagetitle$</title>
+  $for(css)$
+  <link rel="stylesheet" href="$css$">
+  $endfor$
+</head>
+<body>
+  <a class="skip-link" href="#content">Skip to content</a>
+  <div class="page">
+    <header class="profile">
+      <h1>$title$</h1>
+      <figure class="portrait">
+        <img src="$image$" alt="$title$" width="1577" height="1037" fetchpriority="high">
+        <figcaption>$image-credit$</figcaption>
+      </figure>
+      <ul class="profile-links" aria-label="Contact and profiles">
+        $for(links)$
+        <li><a href="$links.url$">$links.label$</a></li>
+        $endfor$
+      </ul>
+    </header>
+    <main id="content" tabindex="-1">
+      $body$
+    </main>
+  </div>
+</body>
+</html>

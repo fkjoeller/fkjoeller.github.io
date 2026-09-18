@@ -1,11 +1,15 @@
 name: "personal_website"
 title: "Frederik K. Kjøller"
 output_dir: "docs"
-navbar:
-  right:
-    - text: "Home"
-      href: index.html
-    - icon: fab fa-github
-      href: https://github.com/fkjoellerlarsen
-output: distill::distill_article
-theme: theme.css
+output:
+  html_document:
+    template: _template.html
+    css: theme.css
+    theme: null
+    highlight: null
+    mathjax: null
+    self_contained: false
+    section_divs: true
+    md_extensions: "-autolink_bare_uris"
+    pandoc_args: ["--wrap=none"]
+exclude: ["README.md"]

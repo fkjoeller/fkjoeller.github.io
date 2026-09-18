@@ -1,103 +1,299 @@
+/* A compact, single-page academic profile. */
+:root {
+  color-scheme: light;
+  --background: #ffffff;
+  --text: #333638;
+  --heading: #18464b;
+  --muted: #6c7375;
+  --link: #1f555b;
+  --link-hover: #103a40;
+  --rule: #dfe5e6;
+}
 
-/* base variables */
-
-/* Edit the CSS properties in this file to create a custom
-   Distill theme. Only edit values in the right column
-   for each row; values shown are the CSS defaults.
-   To return any property to the default,
-   you may set its value to: unset
-   All rows must end with a semi-colon.                      */
-
-/* Optional: embed custom fonts here with `@import`          */
-/* This must remain at the top of this file.                 */
-
-
+* {
+  box-sizing: border-box;
+}
 
 html {
-  /*-- Main font sizes --*/
-  --title-size:      25px;
-  --body-size:       0.85rem;
-  --code-size:       14px;
-  --aside-size:      12px;
-  --fig-cap-size:    13px;
-  /*-- Main font colors --*/
-  --title-color:     #000000; /* this is title like "research" */
-  --header-color:    rgba(0, 0, 0, 0.8); /* header */
-  --body-color:      rgba(0, 0, 0, 0.8); /* selve brødteksten */
-  --aside-color:     rgba(0, 0, 0, 0.6);
-  --fig-cap-color:   rgba(0, 0, 0, 0.6);
-  /*-- Specify custom fonts ~~~ must be imported above   --*/
-  --heading-font:    sans-serif;
-  --mono-font:       monospace;
-  --body-font:       sans-serif;
-  --navbar-font:     sans-serif;  /* websites + blogs only */
+  font-size: 100%;
+  -webkit-text-size-adjust: 100%;
 }
 
-h1:first-of-type::before {
-  content: "Photo: Freja Wille";
+body {
+  margin: 0;
+  background: var(--background);
+  color: var(--text);
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 0.9375rem;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+
+.page {
+  display: grid;
+  grid-template-columns: 230px minmax(0, 650px);
+  align-items: start;
+  gap: 72px;
+  max-width: 1048px;
+  margin: 0 auto;
+  padding: 64px 48px 80px;
+}
+
+.profile {
+  position: sticky;
+  top: 48px;
+}
+
+h1 {
+  margin: 0 0 24px;
+  color: var(--heading);
+  font-size: 1.5rem;
+  font-weight: 600;
+  letter-spacing: -0.035em;
+  line-height: 1.25;
+}
+
+.portrait {
+  margin: 0 0 20px;
+}
+
+.portrait img {
   display: block;
-  font-size: 0.22em;
-  font-weight: 400;
-  opacity: 0.75;
-  margin-top: -2.5em;
-  margin-bottom: 0.4em;
+  width: 210px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 3px;
 }
 
-/*-- ARTICLE METADATA --*/
-d-byline {
-  --heading-size:    0.6rem;
-  --heading-color:   rgba(0, 0, 0, 0.5);
-  --body-size:       0.8rem;
-  --body-color:      rgba(0, 0, 0, 0.8);
+.portrait figcaption {
+  margin-top: 6px;
+  color: var(--muted);
+  font-size: 0.6875rem;
+  line-height: 1.5;
 }
 
-/*-- ARTICLE TABLE OF CONTENTS --*/
-.d-contents {
-  --heading-size:    18px;
-  --contents-size:   13px;
+.profile-links {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 0.875rem;
 }
 
-/*-- ARTICLE APPENDIX --*/
-d-appendix {
-  --heading-size:    15px;
-  --heading-color:   rgba(0, 0, 0, 0.65);
-  --text-size:       0.8em;
-  --text-color:      rgba(0, 0, 0, 0.5);
+.profile-links a {
+  display: inline-block;
+  padding: 3px 0;
 }
 
-/*-- WEBSITE HEADER + FOOTER --*/
-/* These properties only apply to Distill sites and blogs  */
-
-.distill-site-header {
-  --title-size:       18px;
-  --text-color:       rgba(255, 255, 255, 0.8);
-  --text-size:        15px;
-  --hover-color:      white;
-  --bkgd-color:       #0F2E3D;
+main {
+  min-width: 0;
+  overflow-wrap: break-word;
 }
 
-.distill-site-footer {
-  --text-color:       rgba(255, 255, 255, 0.8);
-  --text-size:        15px;
-  --hover-color:      white;
-  --bkgd-color:       #0F2E3D;
+p {
+  margin: 0 0 16px;
 }
 
-/*-- Additional custom styles --*/
-/* Add any additional CSS rules below                      */
-
-.posts-list .metadata .publishedDate {
-    color: rgb(249, 83, 85);
+a {
+  color: var(--link);
+  text-decoration: none;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
 }
 
-/* Line spacing 
-.adjust-line-height {
-  line-height: 1em;
-}*/
+a:hover {
+  color: var(--link-hover);
+  text-decoration: underline;
+}
 
-/* Use specific font in the body of the text */
-/*html, body, p {
-    /*font-weight: 200;*/
-    /*line-height: 1rem;
-    /*font-style: normal;*/
-/*} */
+a:focus-visible {
+  outline: 2px solid var(--link);
+  outline-offset: 4px;
+  border-radius: 1px;
+}
+
+strong {
+  color: var(--heading);
+  font-weight: 600;
+}
+
+/* Smaller research text and compact hanging lists. */
+main > .section {
+  margin-top: 32px;
+  font-size: 0.875rem;
+  line-height: 1.6;
+  scroll-margin-top: 32px;
+}
+
+h2 {
+  margin: 0 0 16px;
+  padding-bottom: 9px;
+  border-bottom: 1px solid var(--rule);
+  color: var(--heading);
+  font-size: 1.125rem;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  line-height: 1.35;
+}
+
+.section ol,
+.section ul {
+  margin: 0;
+  padding-left: 1.65em;
+}
+
+.section li {
+  padding-left: 0.25em;
+  margin-bottom: 13px;
+}
+
+.section li::marker {
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+  font-size: 0.9em;
+}
+
+.section li p,
+.section li:last-child {
+  margin-bottom: 0;
+}
+
+.skip-link {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  z-index: 1;
+  padding: 8px 12px;
+  background: var(--background);
+  transform: translateY(-200%);
+}
+
+.skip-link:focus {
+  transform: translateY(0);
+}
+
+@media (max-width: 800px) {
+  .page {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 32px;
+    max-width: 700px;
+    padding: 36px 28px 56px;
+  }
+
+  .profile {
+    position: static;
+    display: grid;
+    grid-template-columns: 160px minmax(0, 1fr);
+    column-gap: 28px;
+    align-items: start;
+    padding-bottom: 28px;
+    border-bottom: 1px solid var(--rule);
+  }
+
+  .profile h1 {
+    grid-column: 2;
+    margin-bottom: 16px;
+  }
+
+  .portrait {
+    grid-column: 1;
+    grid-row: 1 / 3;
+    margin: 0;
+  }
+
+  .profile-links {
+    grid-column: 2;
+  }
+}
+
+@media (max-width: 480px) {
+  .page {
+    padding: 28px 22px 48px;
+    gap: 26px;
+  }
+
+  .profile {
+    grid-template-columns: 116px minmax(0, 1fr);
+    column-gap: 20px;
+    row-gap: 18px;
+    padding-bottom: 24px;
+  }
+
+  .profile h1 {
+    grid-column: 1 / -1;
+    margin: 0;
+    font-size: 1.5rem;
+  }
+
+  .portrait {
+    grid-row: 2;
+  }
+
+  .profile-links {
+    gap: 2px;
+  }
+}
+
+@media (max-height: 580px) {
+  .profile {
+    position: static;
+  }
+}
+
+@media print {
+  body {
+    background: #fff;
+    font-size: 10pt;
+  }
+
+  .page {
+    display: block;
+    max-width: none;
+    padding: 0;
+  }
+
+  .profile {
+    position: static;
+    display: block;
+    padding-bottom: 16px;
+    margin-bottom: 24px;
+    border-bottom: 1px solid var(--rule);
+  }
+
+  .profile h1 {
+    margin-bottom: 12px;
+  }
+
+  .portrait {
+    display: none;
+  }
+
+  .profile-links {
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+
+  main > .section {
+    font-size: 9pt;
+  }
+
+  h2 {
+    break-after: avoid;
+  }
+
+  li {
+    break-inside: avoid;
+  }
+
+  a {
+    color: inherit;
+  }
+
+  .skip-link {
+    display: none;
+  }
+}
