@@ -5,8 +5,8 @@
   --text: #333638;
   --heading: #18464b;
   --muted: #6c7375;
-  --link: #1f555b;
-  --link-hover: #103a40;
+  --link: #33767d;
+  --link-hover: #1f555b;
   --rule: #dfe5e6;
 }
 
@@ -148,6 +148,18 @@ h2 {
 .section li {
   padding-left: 0.25em;
   margin-bottom: 13px;
+}
+
+/* Give linked paper titles the same emphasis as unlinked titles. */
+.section li > a:first-child,
+.section li > p > a:first-child {
+  font-weight: 600;
+}
+
+/* Reserve the blue-green accent for clickable paper titles. */
+.section li > strong:first-child,
+.section li > p > strong:first-child {
+  color: var(--text);
 }
 
 .section li::marker {
