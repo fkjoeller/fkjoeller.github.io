@@ -27,19 +27,51 @@ Please reach out to me at **fkjoeller *[at]* ifs.ku.dk** if you want to get in t
 
 ## Published and accepted work
 
-1. __Government Ideology and Gender Equality in Public Sector Career Progression__ with Lasse Aaskoven and Benjamin Egerod. Accepted in *Political Science Research & Methods*.
+<ol reversed>
 
-2. [Women's Impact through the Policy Process: Different Preferences and Agendas -- Same Outcomes](https://www.sciencedirect.com/science/article/abs/pii/S0261379426000648) with Karl-Emil Svenningsen Bendtsen & Lene Holm Pedersen. 2026. *Electoral Studies*, 102, 103106.
+<li>
 
-3. [Career Rewards for Part-time Politicians](https://onlinelibrary.wiley.com/doi/full/10.1111/lsq.70071). 2026. *Legislative Studies Quarterly*, 51(3), e70071.
+__Government Ideology and Gender Equality in Public Sector Career Progression__ with Lasse Aaskoven and Benjamin Egerod. Accepted in *Political Science Research & Methods*.
 
-4. [What Happens When Women Win Elections? The Electoral Returns to Increased Representation of Women](https://www.journals.uchicago.edu/doi/full/10.1086/734266) with Benjamin Egerod, Lene Holm Pedersen and Jens Olav Dahlgaard. 2026. *Journal of Politics*, 88(1), 413-418.
+</li>
 
-5. [Reward or Punishment? The Distribution of Life-Cycle Returns to Political Office](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/reward-or-punishment-the-distribution-of-lifecycle-returns-to-political-office/9D15D43DAF4D7BCA1AE469E4E1BC0DE7) with Jens Olav Dahlgaard and Nicolai Kristensen. 2026. *Political Science Research & Methods*, 14(1), 168-176.
+<li>
 
-6. [The Gendered Cost of Politics](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/gendered-cost-of-politics/2EADF7209471F07DDFEFB7F4D19A594D) with Lene Holm Pedersen. 2025. *British Journal of Political Science*, 55:e59. Winner of the 2025 Municipal Politics Best Paper Award by the Danish Political Science Association.
+[Women's Impact through the Policy Process: Different Preferences and Agendas -- Same Outcomes](https://www.sciencedirect.com/science/article/abs/pii/S0261379426000648) with Karl-Emil Svenningsen Bendtsen & Lene Holm Pedersen. 2026. *Electoral Studies*, 102, 103106.
 
-7. [No Gender Bias in Audience Perceptions of Male and Female Experts in the News: Equally Competent and Persuasive](https://journals.sagepub.com/doi/abs/10.1177/19401612211025499) with Katrine Greve-Poulsen, Rasmus T. Pedersen & Erik Albæk. 2021. *The International Journal of Press/Politics*, 28 (1), 116-137.
+</li>
+
+<li>
+
+[Career Rewards for Part-time Politicians](https://onlinelibrary.wiley.com/doi/full/10.1111/lsq.70071). 2026. *Legislative Studies Quarterly*, 51(3), e70071.
+
+</li>
+
+<li>
+
+[What Happens When Women Win Elections? The Electoral Returns to Increased Representation of Women](https://www.journals.uchicago.edu/doi/full/10.1086/734266) with Benjamin Egerod, Lene Holm Pedersen and Jens Olav Dahlgaard. 2026. *Journal of Politics*, 88(1), 413-418.
+
+</li>
+
+<li>
+
+[Reward or Punishment? The Distribution of Life-Cycle Returns to Political Office](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/reward-or-punishment-the-distribution-of-lifecycle-returns-to-political-office/9D15D43DAF4D7BCA1AE469E4E1BC0DE7) with Jens Olav Dahlgaard and Nicolai Kristensen. 2026. *Political Science Research & Methods*, 14(1), 168-176.
+
+</li>
+
+<li>
+
+[The Gendered Cost of Politics](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/gendered-cost-of-politics/2EADF7209471F07DDFEFB7F4D19A594D) with Lene Holm Pedersen. 2025. *British Journal of Political Science*, 55:e59. Winner of the 2025 Municipal Politics Best Paper Award by the Danish Political Science Association.
+
+</li>
+
+<li>
+
+[No Gender Bias in Audience Perceptions of Male and Female Experts in the News: Equally Competent and Persuasive](https://journals.sagepub.com/doi/abs/10.1177/19401612211025499) with Katrine Greve-Poulsen, Rasmus T. Pedersen & Erik Albæk. 2021. *The International Journal of Press/Politics*, 28 (1), 116-137.
+
+</li>
+
+</ol>
 
 ## Work in progress
 
